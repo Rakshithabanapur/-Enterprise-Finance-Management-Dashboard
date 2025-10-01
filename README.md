@@ -75,4 +75,6 @@ Contributions to the Finance Dashboard Using MERN project are welcome! Feel free
 
 Special thanks to the MERN stack community and contributors for their efforts in developing and maintaining a powerful platform for building modern web applications.
 
+All the best.
+
 Thank you for exploring the Finance Dashboard Using MERN project! We hope you find it valuable for managing and analyzing your financial data.
